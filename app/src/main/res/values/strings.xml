@@ -4,4 +4,7 @@
     <string name="hint">any words</string>
     <string name="post">post data</string>
     <string name="browser">browser</string>
+    <string name="user">user</string>
+    <string name="pass">pass</string>
+    <string name="email">Email</string>
 </resources>
